@@ -22,7 +22,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gy-games-libs/compress/flate"
+	"github.com/gy-games-libs/kcompress/flate"
 	"github.com/gy-games-libs/crc32"
 )
 
