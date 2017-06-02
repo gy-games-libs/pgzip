@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	kpgzip "github.com/klauspost/compress/gzip"
+	kpgzip "github.com/gy-games-libs/compress/gzip"
 )
 
 type gunzipTest struct {

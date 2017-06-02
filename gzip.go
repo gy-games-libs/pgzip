@@ -13,8 +13,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/klauspost/compress/flate"
-	"github.com/klauspost/crc32"
+	"github.com/gy-games-libs/compress/flate"
+	"github.com/gy-games-libs/crc32"
 )
 
 const (
